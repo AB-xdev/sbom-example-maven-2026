@@ -64,7 +64,7 @@
             </plugin>
 
             <!-- SWID -->
-            <!-- Output can be found in classes/META-INF/SWIDTAG/... -->
+            <!-- Output can be found in target/classes/META-INF/SWIDTAG/... -->
             <plugin>
                 <groupId>gov.nist.secauto.swid</groupId>
                 <artifactId>swid-maven-plugin</artifactId>
